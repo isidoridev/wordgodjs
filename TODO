@@ -1,0 +1,9 @@
+TODO: Add a count for word occurrences:
+        addWordToList => also increment some counter.
+
+Needs to print three most popular suggestions.
+        Given lst: number[] => find which has longest length.
+
+Needs a different mode(?) for building sentences from suggestions.
+  Given state: string[] =>
+    return list of sentences with state[0] and then state[1]
