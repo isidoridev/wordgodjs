@@ -1,16 +1,16 @@
-# Word Occurrence
+# worgodjs
 I want to see the context that words are used in.
-
-## How To Use
-for now,
-node userside.js
-
-in future
-node wordgod.js
 
 # Features
 - Parses text.
-- Select a word and see the sentence it belongs in.
+- Shows word-count / frequency list after parsing.
+- Ability to select a word from list and see the sentences that it belongs in.
+
+## How To Use
+```node userside.js```
+
+```node wordgod.js filename.txt```
+
 
 ## Todos
 - Sort most-to-least frequent (I will need to ban common words.)
